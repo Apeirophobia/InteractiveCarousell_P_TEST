@@ -61,7 +61,14 @@ namespace InteractiveCarousell_P.Resources.Localization {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Classic Roman pasta dish.
+        ///   Looks up a localized string similar to Classic Roman pasta dish
+        ///1 tablespoon extra virgin olive oil or unsalted butter
+        ///1/2 pound pancetta or thick cut bacon, diced
+        ///1 to 2 garlic cloves, minced, about 1 teaspoon (optional)
+        ///3 to 4 whole eggs
+        ///1 cup grated Parmesan or pecorino cheese
+        ///1 pound spaghetti (or bucatini or fettuccine)
+        ///Kosher salt and freshly ground black pepper to taste.
         /// </summary>
         internal static string CarbonaraDescription {
             get {
@@ -88,7 +95,19 @@ namespace InteractiveCarousell_P.Resources.Localization {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to  Layers of pasta, meat, and cheese.
+        ///   Looks up a localized string similar to  Layers of pasta, meat, and cheese
+        ///2 olive oil
+        ///plus extra for the dish
+        ///750g lean beef mince
+        ///90g pack prosciutto
+        ///800g passata or half our basic tomato sauce
+        ///200ml hot beef stock
+        ///nutmeg
+        ///300g fresh lasagne sheets
+        ///white sauce
+        ///(find a recipe in the method, or use shop-bought)
+        ///125g ball mozzarella
+        ///torn into thin strips.
         /// </summary>
         internal static string LasagneDescription {
             get {
@@ -97,7 +116,14 @@ namespace InteractiveCarousell_P.Resources.Localization {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Simple and delicious.
+        ///   Looks up a localized string similar to Simple and delicious
+        ///16 ounces pizza dough, store-bought or homemade (I like this no-knead version, though note that this recipe makes enough dough for 2 pizzas)
+        ///1/2 cup pizza sauce (see below)
+        ///18 to 20 slices pepperoni
+        ///12 ounces mozzarella cheese, grated
+        ///1/2 teaspoon ground black pepper
+        ///1 teaspoon fresh oregano, optional
+        ///Flour for rolling and shaping dough.
         /// </summary>
         internal static string PizzaDescription {
             get {
@@ -106,7 +132,25 @@ namespace InteractiveCarousell_P.Resources.Localization {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Creamy saffron rice .
+        ///   Looks up a localized string similar to Creamy saffron rice 
+        ///1 supilusikatäis võid
+        ///3 supilusikatäit oliiviõli
+        ///
+        ///1 väike sibul, hakitud (umbes 1 tass)
+        ///
+        ///2 tassi aborio või muud lühikese kuni keskmise teraga riisi
+        ///
+        ///½ tassi valget veini
+        ///
+        ///6–8 tassi kuumutatud kanapuljongit
+        ///
+        ///¼ tassi riivitud Parmesani juustu
+        ///
+        ///1 ½ supilusikatäit võid või oliiviõli viimistlemiseks
+        ///
+        ///Väike peotäis hakitud peterselli
+        ///
+        ///Soola, pipart.
         /// </summary>
         internal static string RisottoDescription {
             get {
@@ -115,7 +159,10 @@ namespace InteractiveCarousell_P.Resources.Localization {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to  Popular coffee-flavored dessert.
+        ///   Looks up a localized string similar to  Popular coffee-flavored dessert
+        ///Mascarpone cheese and heavy cream – They create the tiramisu’s rich, creamy layers.
+        ///Granulated sugar and vanilla extract – They flavor the cream. For the best texture, use a fine white granulated sugar for this recipe, not natural cane sugar. I also tested this recipe with powdered sugar. It worked fine, but granulated sugar gives the cream a smoother texture.
+        ///Ladyfingers – You’ll soak these Italian cookies in espresso to create the non-cream layers of the tiramisu. They’ [rest of string was truncated]&quot;;.
         /// </summary>
         internal static string TiramisuDescription {
             get {

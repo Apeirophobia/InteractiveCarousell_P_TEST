@@ -118,13 +118,47 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="CarbonaraDescription" xml:space="preserve">
-    <value>Klassikaline Rooma pastaroog</value>
+    <value>Klassikaline Rooma pastaroog
+1 supilusikatäis ekstra neitsioliiviõli või soolamata võid
+1/2 naela pancettat või paksult lõigatud peekonit, kuubikuteks lõigatud
+1-2 küüslauguküünt, hakitud, umbes 1 teelusikatäis (valikuline)
+3-4 tervet muna
+1 tass riivitud parmesani või pecorino juustu
+1 nael spagette (või bucatini või fettuccine)
+Kosšersoola ja värskelt jahvatatud musta pipart maitse järgi</value>
   </data>
   <data name="RisottoDescription" xml:space="preserve">
-    <value>Kreemine safraniriis</value>
+    <value>Kreemine safraniriis
+1 supilusikatäis võid
+3 supilusikatäit oliiviõli
+
+1 väike sibul, hakitud (umbes 1 tass)
+
+2 tassi aborio või muud kuni keskmise teraga riisi
+
+½ tassi valget veini
+
+6–8 tassi küpsetatud kanapuljongit
+
+¼ tassi riivitud Parmesani juustu
+
+1 ½ supilusikatäit võid või oliiviõli viimistlemiseks
+
+Väike peotäis hakitud peterselli
+
+Soola, pipart</value>
   </data>
   <data name="TiramisuDescription" xml:space="preserve">
-    <value>Populaarne kohvimaitseline magustoit</value>
+    <value>Populaarne kohvimaitseline magustoit
+Mascarpone juust ja vahukoor – need loovad tiramisu rikkalikud ja kreemjad kihid.
+
+Suhkur ja vaniljeekstrakt – need maitsestavad koort. Parima tekstuuri saavutamiseks kasutage selle retsepti jaoks peent valget suhkrut, mitte naturaalset roosuhkrut. Testisin seda retsepti ka tuhksuhkruga. See toimis hästi, aga suhkur annab kreemile sujuvama tekstuuri.
+
+Ladyfingerid – neid Itaalia küpsiseid leotatakse espressos, et luua tiramisu kreemivabad kihid. Neid on saadaval enamiku toidupoodide küpsetiste või Itaalia toiduosakonnas. Otsige krõbeda tekstuuriga küpsiseid. Mulle meeldivad Alessi ja DeLallo kaubamärgid.
+
+Espresso – daamide leotamiseks. Kui teil on espressomasin, keetke see ise või kasutage lahustuvat espressopulbrit. (Mulle meeldib DeLallo oma.) Hädaolukorras sobib ka kange kohv või külmpruulitud kontsentraat.
+
+Tume rumm või liköör – valikuline, aga traditsiooniline! Mulle isiklikult meeldib see tiramisu retsept ilma alkoholita ja see on lapsesõbralik. Aga kui soovite seda lisada, siis tehke seda julgelt. Tume rumm on suurepärane valik, nagu ka Itaalia liköör nagu amaretto. (Boonus: ülejääke saab kasutada amaretto hapukoore valmistamiseks!)</value>
   </data>
   <data name="EstonianButton" xml:space="preserve">
     <value>Eesti</value>
@@ -133,9 +167,28 @@
     <value>Inglise</value>
   </data>
   <data name="LasagneDescription" xml:space="preserve">
-    <value>Kihiline pasta liha ja juustuga</value>
+    <value>Kihiline pasta liha ja juustuga
+2 oliiviõli
+pluss roa jaoks lisaks
+750 g taist veisehakkliha
+90 g pakk prosciutto't
+800 g tomatikastet või pool meie tavalist tomatikastet
+200 ml kuuma veisepuljongit
+muskaatpähklit
+300 g värskeid lasanjeplaate
+valget kastet
+(leia retsept valmistusviisist või kasuta poest ostetud)
+125 g mozzarellat
+õhukesteks ribadeks rebitud</value>
   </data>
   <data name="PizzaDescription" xml:space="preserve">
-    <value>Lihtne ja maitsev</value>
+    <value>Lihtne ja maitsev
+470 g pitsataigent, poest ostetud või ise tehtud (mulle meeldib see sõtkumiseta versioon, kuigi pea meeles, et sellest retseptist piisab kahe pitsa jaoks)
+1/2 tassi pitsakastet (vt allpool)
+18–20 viilu pepperonit
+340 g riivitud mozzarella juustu
+1/2 tl jahvatatud musta pipart
+1 tl värsket oreganot (valikuline)
+Jahu taigna rullimiseks ja vormimiseks</value>
   </data>
 </root>

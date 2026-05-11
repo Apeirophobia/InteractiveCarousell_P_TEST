@@ -2,7 +2,6 @@ using InteractiveCarousell_P.Resources.Localization;
 using InteractiveCarousell_P.Services;
 using System.Collections.ObjectModel;
 using System.Globalization;
-
 namespace InteractiveCarousell_P;
 
 public partial class ICarousell : ContentPage
@@ -36,6 +35,7 @@ public partial class ICarousell : ContentPage
 		carouselView = new CarouselView
 		{
 			ItemsSource = items,
+			Loop = true,
 			HeightRequest = 350,
 			PeekAreaInsets = new Thickness(40, 0, 40, 0),
 			ItemTemplate = new DataTemplate(() =>
@@ -82,7 +82,7 @@ public partial class ICarousell : ContentPage
 				tap.Tapped += async (s, e) =>
 				{
 					var tappedItem = ((Frame)s).BindingContext as CarousellItem;
-					await DisplayAlert("Valisid:", tappedItem?.Title ?? "Tundamtu", "OK");
+					await DisplayAlert("Valisid:", tappedItem?.Description ?? "Tundamtu", "OK");
 				};
 				frame.GestureRecognizers.Add(tap);
 
@@ -125,6 +125,7 @@ public partial class ICarousell : ContentPage
 		{
 			var btn = new Button
 			{
+				Text = cultureCode,
 				HeightRequest = 50,
 				WidthRequest = 50,
 				CornerRadius = 5

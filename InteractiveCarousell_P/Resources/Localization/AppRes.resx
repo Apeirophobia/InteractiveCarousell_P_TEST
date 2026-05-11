@@ -118,13 +118,44 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="CarbonaraDescription" xml:space="preserve">
-    <value>Classic Roman pasta dish</value>
+    <value>Classic Roman pasta dish
+1 tablespoon extra virgin olive oil or unsalted butter
+1/2 pound pancetta or thick cut bacon, diced
+1 to 2 garlic cloves, minced, about 1 teaspoon (optional)
+3 to 4 whole eggs
+1 cup grated Parmesan or pecorino cheese
+1 pound spaghetti (or bucatini or fettuccine)
+Kosher salt and freshly ground black pepper to taste</value>
   </data>
   <data name="RisottoDescription" xml:space="preserve">
-    <value>Creamy saffron rice </value>
+    <value>Creamy saffron rice 
+1 supilusikatäis võid
+3 supilusikatäit oliiviõli
+
+1 väike sibul, hakitud (umbes 1 tass)
+
+2 tassi aborio või muud lühikese kuni keskmise teraga riisi
+
+½ tassi valget veini
+
+6–8 tassi kuumutatud kanapuljongit
+
+¼ tassi riivitud Parmesani juustu
+
+1 ½ supilusikatäit võid või oliiviõli viimistlemiseks
+
+Väike peotäis hakitud peterselli
+
+Soola, pipart</value>
   </data>
   <data name="TiramisuDescription" xml:space="preserve">
-    <value> Popular coffee-flavored dessert</value>
+    <value> Popular coffee-flavored dessert
+Mascarpone cheese and heavy cream – They create the tiramisu’s rich, creamy layers.
+Granulated sugar and vanilla extract – They flavor the cream. For the best texture, use a fine white granulated sugar for this recipe, not natural cane sugar. I also tested this recipe with powdered sugar. It worked fine, but granulated sugar gives the cream a smoother texture.
+Ladyfingers – You’ll soak these Italian cookies in espresso to create the non-cream layers of the tiramisu. They’re available in the baking or Italian section of most grocery stores. Look for ones with a crisp texture. I like the Alessi and DeLallo brands.
+Espresso – For soaking the ladyfingers. Brew it yourself if you have an espresso machine, or use an instant espresso powder. (I like DeLallo’s.) In a pinch, strong brewed coffee or cold brew concentrate works too.
+Dark rum or liqueur – Optional, but traditional! I personally love this tiramisu recipe without the alcohol, and it’s kid-friendly that way. But if you’d like to add it in, feel free. Dark rum is a great choice, as is an Italian liqueur like amaretto. (Bonus: you can use the leftovers to make an amaretto sour!)
+And cocoa powder – For dusting on top.</value>
   </data>
   <data name="EstonianButton" xml:space="preserve">
     <value>Estonian</value>
@@ -133,9 +164,28 @@
     <value>English</value>
   </data>
   <data name="LasagneDescription" xml:space="preserve">
-    <value> Layers of pasta, meat, and cheese</value>
+    <value> Layers of pasta, meat, and cheese
+2 olive oil
+plus extra for the dish
+750g lean beef mince
+90g pack prosciutto
+800g passata or half our basic tomato sauce
+200ml hot beef stock
+nutmeg
+300g fresh lasagne sheets
+white sauce
+(find a recipe in the method, or use shop-bought)
+125g ball mozzarella
+torn into thin strips</value>
   </data>
   <data name="PizzaDescription" xml:space="preserve">
-    <value>Simple and delicious</value>
+    <value>Simple and delicious
+16 ounces pizza dough, store-bought or homemade (I like this no-knead version, though note that this recipe makes enough dough for 2 pizzas)
+1/2 cup pizza sauce (see below)
+18 to 20 slices pepperoni
+12 ounces mozzarella cheese, grated
+1/2 teaspoon ground black pepper
+1 teaspoon fresh oregano, optional
+Flour for rolling and shaping dough</value>
   </data>
 </root>
